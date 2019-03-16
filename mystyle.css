@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(179, 19, 19);
+}
+
+.corpo {
+    background-color: white;
+}
+        
+.rodape {
+    background-color: rgb(179, 19, 19);
+
+
+    
+}
+
+
+h1,h3 {
+    text-align: center;
+    
+}
+
+img{
+    border-radius: 50%;
+}
+
+
+
+hr {
+        border: 0;
+        height: 1px;
+        background-image: -webkit-linear-gradient(left, #f0f0f0, rgb(179, 19, 19), #f0f0f0);
+        background-image: -moz-linear-gradient(left, #f0f0f0, rgb(179, 19, 19), #f0f0f0);
+        background-image: -o-linear-gradient(left, #f0f0f0, rgb(179, 19, 19), #f0f0f0);
+        width: 70%;
+        
+    }
+    
+    div#geral {width:760px;
+       height:1000px; 
+       border:1px solid #EEE;
+       margin:0 auto; /* centraliza */
+       padding:3px; /* espaçamento interno */
+    }
